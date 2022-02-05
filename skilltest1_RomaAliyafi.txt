@@ -1,0 +1,4 @@
+Nama: Roma Aliyafi
+Umur: 28 Tahun
+Stack: Backend
+Bahasa Pemograman: Rect Native
